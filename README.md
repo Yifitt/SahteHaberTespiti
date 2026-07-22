@@ -6,6 +6,7 @@ Bu proje, Türkçe haber metinleri üzerinde veri analizi ve sahte haber/yanlı�
 
 - `eda.ipynb`: Haber verisi üzerinde keşifsel veri analizi ve metin incelemeleri.
 - `training_evaluation.ipynb`: ANKA haberleri ile DMM tarafından yanlış olarak etiketlenen iddiaları ayırmak için TF-IDF ve Logistic Regression modeli eğitimi ve değerlendirmesi.
+- `checkpoints/`: Eğitilmiş model dosyası (`anka_dmm_tfidf_logistic_regression.joblib`).
 
 Model, haberlerin doğruluğunu dış kaynaklardan doğrulamaz; kullanılan veri kümelerindeki metinsel örüntüler üzerinden sınıflandırma yapar.
 
