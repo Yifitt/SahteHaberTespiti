@@ -16,5 +16,5 @@ Model, haberlerin doğruluğunu dış kaynaklardan doğrulamaz; kullanılan veri
 - [ANKA Ajansı Haberleri](https://huggingface.co/datasets/momererkoc/anka_ajansi_haberler)
 
 
-## Streamlit Linki:
+## Streamlit Linki
 https://yifitt-sahtehabertespiti-app-cwyrql.streamlit.app/
