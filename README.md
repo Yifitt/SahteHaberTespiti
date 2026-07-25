@@ -14,3 +14,7 @@ Model, haberlerin doğruluğunu dış kaynaklardan doğrulamaz; kullanılan veri
 
 - [Dezenformasyon Bültenleri](https://huggingface.co/datasets/iletisim/dezenformasyon-bultenleri)
 - [ANKA Ajansı Haberleri](https://huggingface.co/datasets/momererkoc/anka_ajansi_haberler)
+
+
+## Streamlit Linki:
+https://yifitt-sahtehabertespiti-app-cwyrql.streamlit.app/
